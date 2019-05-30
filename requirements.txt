@@ -1,0 +1,5 @@
+numpy 
+pytesseract
+argparse
+cv2
+imutils
